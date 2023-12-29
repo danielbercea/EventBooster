@@ -1,5 +1,5 @@
 {
-  "name": "EventBooster",
+  "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://github.com/danielbercea/EventBooster",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/danielbercea/EventBooster"
   },
   "keywords": [],
   "author": "Bercea daniel <berceaidaniel@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/danielbercea/EventBooster/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
